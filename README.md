@@ -52,5 +52,5 @@ menu.mainloop(screen)
 
 ### Blackjack 개발 흐름
 
-  ++ 1. Blackjack의 규칙이 무엇인지 인터넷에서 검색하여 필요한 정보를 추출함.
-  ++ 2.
+  + 1. Blackjack의 규칙이 무엇인지 인터넷에서 검색하여 필요한 정보를 추출함.
+  + 2.
