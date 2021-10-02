@@ -10,4 +10,4 @@ menu.add.selector('Difficulty: ', [('Easy', 1), ('Hard', 2)], onchange=set_diffi
 menu.add.button('Play', start_the_game)
 menu.add.button('Quit', pygame_menu.events.EXIT)
 ```
-게임을 시작할 때 바로 게임 진행 화면으로 이동하는 것은 불편할 수 있기 때문에 시작 화면을 따로 구현하여 확장하였다.
+게임을 시작할 때 게임을 바로 진행하는 것이 불편할 수 있기 때문에 시작 화면을 따로 구현하여 확장하였다.
