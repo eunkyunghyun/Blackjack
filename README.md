@@ -111,4 +111,4 @@ menu.mainloop(screen)
 
 ## Blackjack 업데이트 로그
 
-    + 1. Blackjack에 pygame_menu 모듈을 통해 시작 화면을 구현하였고, 컴퓨터가 기댓값 계산을 할 수 있도록 개발하였다.
+    1. Blackjack에 pygame_menu 모듈을 통해 시작 화면을 구현하였고, 컴퓨터가 기댓값 계산을 할 수 있도록 개발하였다.
