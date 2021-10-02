@@ -93,8 +93,7 @@ menu.mainloop(screen)
   + 1. Blackjack의 규칙이 무엇인지 인터넷에서 검색하여 필요한 정보를 추출함.
   + 2. 기본 규칙을 Python 함수로 구현하여 CLI 방식으로 Blackjack을 개발함.
   + 3. CLI 방식에서 확장하여 GUI 방식으로 개발함.
-  + 4. GUI 방식의 Blackjack에 pygame_menu, 기댓값 계산을 고안하여 추가함.
-  + 5. 게임을 완성하여 GitHub에 업로드함.
+  + 4. 게임을 완성하여 GitHub에 업로드함.
 
 ## Blackjack 개발 중 발생한 오류
 
