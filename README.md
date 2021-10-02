@@ -1,6 +1,6 @@
 # Blackjack
 
-### Blackjack 주요 함수
+## Blackjack 주요 함수
 
 + pygame_menu 모듈을 통한 추가적인 개발
 ```
@@ -50,7 +50,8 @@ menu.mainloop(screen)
 ```
 위 함수를 무한 루프로 설정하여 GUI 화면이 유지되면서 게임을 계속할 수 있도록 하였다.
 
-### Blackjack 개발 흐름
+## Blackjack 개발 흐름
 
   + 1. Blackjack의 규칙이 무엇인지 인터넷에서 검색하여 필요한 정보를 추출함.
   + 2.
+  +
