@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5641fabc-6742-443e-b2c5-8ef7a73e3cc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/ah.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/as.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/kc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/kd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/kh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/ks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/qc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/qd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/qh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/qs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/stay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hit.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stay.ogg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ywISZjn4IYJMR70sX16d3Kc9hr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\turing\PycharmProjects\Blackjack" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5641fabc-6742-443e-b2c5-8ef7a73e3cc8" name="Changes" comment="" />
+      <created>1633156223515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633156223515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
