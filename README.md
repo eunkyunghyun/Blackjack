@@ -1,5 +1,9 @@
 # Blackjack
 
+## Blackjack 이미지
+
+
+
 ## Blackjack 주요 함수
 
 + pygame_menu 모듈을 통한 추가적인 개발
