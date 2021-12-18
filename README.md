@@ -100,7 +100,7 @@ menu.mainloop(screen)
   + 기댓값 계산 오류
     카드는 a부터 k까지 각각 3개가 주어지며 플레이어와 컴퓨터가 카드를 가져올 때마다 주어진 카드의 전체 양은 감소한다. 이것을 고려했을 때 기댓값의 공식은 다음과 같다.
     
-    ![공식](https://user-images.githubusercontent.com/57312000/135707659-58eaec5a-7c47-4c48-9138-726c72f26374.PNG)
+    ![공식](https://user-images.githubusercontent.com/57312000/146633257-00313630-3ca2-40b0-a806-ca8036fa2fd0.PNG)
     
     이미지에 등장한 values[i], cards[i]는 아래 리스트에서 유래하였다.
     ```
